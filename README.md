@@ -26,7 +26,7 @@ Start developing right away!
 You can either click `Use this template` button on this repository and clone the repo or directly from your terminal:
 
 ```bash
-npx degit Decentralized-Brains/Svelte-Boiler-Plate <YOUR_APP_NAME>
+npx degit XPro-Gamer-Rhine/Svelte-Web3 <YOUR_APP_NAME>
 ```
 
 Then, run the development server:
